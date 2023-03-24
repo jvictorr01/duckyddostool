@@ -4,7 +4,7 @@
 
 COMO USAR:
 
-1- git clone 
+1- git clone https://github.com/jvictorr01/duckyddostool.git
 
 2- cd duckyddostool
 
