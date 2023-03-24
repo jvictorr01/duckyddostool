@@ -1,0 +1,2 @@
+# duckyddostool
+DuckyZ DDoS Tool
